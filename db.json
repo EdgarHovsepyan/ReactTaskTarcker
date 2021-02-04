@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Learn React Hooks",
+      "day": "Feb 5 at 2:30pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Learn React ",
+      "day": "Feb 6 at 8:30pm",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Learn React Native",
+      "day": "Feb 13 at 6:15pm",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
